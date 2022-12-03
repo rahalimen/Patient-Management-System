@@ -1,0 +1,17 @@
+how many medicine still in the stock ? -1 from mp
+ lab results ----> "appointement date"
+ all dashaboards logo
+ colors
+ update profile css div wrong 
+ -------------------------------
+ 
+ doc db 
+ staff link
+ generate mp/mc - auto fill
+  1xdiagnosed 
+  show message of success 
+  -- add button to see mc mp
+----------------------------------
+- visitattion record from patient name
+- admin add doc/staff submit btn pos ,,, 
+- admin can't view profile or update patients
